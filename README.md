@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 - 🔭 I’m currently working on: [@ListedB](https://github.com/listedb)
-- 🌱 I’m currently learning: DevOps, Microservices architectures and Distributed systems design
+- 🌱 I’m currently learning: DevOps, Microservice architecture and Distributed system design
 - 👯 I’m looking to collaborate on: [@ListedB](https://github.com/listedb) 😁
 - 🤔 I’m looking for help with: [@ListedB](https://github.com/listedb) 😅
 - 💬 Ask me about: React Native, Node.js, Business, Tech, and Cars
