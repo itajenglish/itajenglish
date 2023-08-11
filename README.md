@@ -11,4 +11,4 @@
 
 -----
 
-![Taj's github stats](https://github-readme-stats.vercel.app/api?username=itajenglish&count_private=true&show_icons=true&theme=shades-of-purple)
+<!-- ![Taj's github stats](https://github-readme-stats.vercel.app/api?username=itajenglish&count_private=true&show_icons=true&theme=shades-of-purple) -->
